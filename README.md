@@ -155,23 +155,23 @@ python app.py
 
 Some screenshots from the application are included below.
 
-![Lecture AI Screenshot 1](screenshots/photo_1_2026-09-08_00-20-40.jpg)
+![Lecture AI Screenshot 1](photo_1_2026-09-08_00-20-40.jpg)
 
-![Lecture AI Screenshot 2](screenshots/photo_2_2026-09-08_00-20-40.jpg)
+![Lecture AI Screenshot 2](photo_2_2026-09-08_00-20-40.jpg)
 
-![Lecture AI Screenshot 3](screenshots/photo_3_2026-09-08_00-20-40.jpg)
+![Lecture AI Screenshot 3](photo_3_2026-09-08_00-20-40.jpg)
 
-![Lecture AI Screenshot 4](screenshots/photo_4_2026-09-08_00-20-40.jpg)
+![Lecture AI Screenshot 4](photo_4_2026-09-08_00-20-40.jpg)
 
-![Lecture AI Screenshot 5](screenshots/photo_5_2026-09-08_00-20-40.jpg)
+![Lecture AI Screenshot 5](photo_5_2026-09-08_00-20-40.jpg)
 
-![Lecture AI Screenshot 6](screenshots/photo_6_2026-09-08_00-20-40.jpg)
+![Lecture AI Screenshot 6](photo_6_2026-09-08_00-20-40.jpg)
 
-![Lecture AI Screenshot 7](screenshots/photo_7_2026-09-08_00-20-40.jpg)
+![Lecture AI Screenshot 7](photo_7_2026-09-08_00-20-40.jpg)
 
-![Lecture AI Screenshot 8](screenshots/photo_8_2026-09-08_00-20-40.jpg)
+![Lecture AI Screenshot 8](photo_8_2026-09-08_00-20-40.jpg)
 
-![Lecture AI Screenshot 9](screenshots/photo_9_2026-09-08_00-20-40.jpg)
+![Lecture AI Screenshot 9](photo_9_2026-09-08_00-20-40.jpg)
 
 ## Project Structure
 
@@ -184,7 +184,6 @@ Lecture-AI/
 ├── knowledge_base.py       # Saving summaries and building the reference
 ├── html_design.py          # HTML page design
 ├── requirements.txt        # Required Python packages
-├── screenshots/            # Application screenshots
 └── README.md               # Project documentation
 ```
 
